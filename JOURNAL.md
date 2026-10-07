@@ -14,13 +14,23 @@
 
 ## Contents
 
-1. [2026-10-07 — Work session](#2026-10-07-work-session)
+1. [2026-10-07 — Had a brilliant idea! What if instead of just a normal macro-pad at the side, why not make it the main keyboard? So i thought about some of its features like modular connection between macro pads and](#2026-10-07-had-a-brilliant-idea-what-if-instead-of-just-a-no)
 
 ## Design
 
-### 2026-10-07 — Work session
+### 2026-10-07 — Had a brilliant idea! What if instead of just a normal macro-pad at the side, why not make it the main keyboard? So i thought about some of its features like modular connection between macro pads and
 
 **2.67h**
+
+Had a brilliant idea! What if instead of just a normal macro-pad at the side, why not make it the main keyboard? So i thought about some of its features like modular connection between macro pads and daisy-chaining them together.
+
+I started by doing a little research on the components i did, then i got the symbol and footprint into Kicad. I had to make my own footprint for the Haimu Dove HE v2 switches as they are not available in any of the keyboard switches library. After that i placed them all into the schematic editor. Did some sanity check with AI and found out some components are not suitable so had to change them and think about extra features.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9mI9SK5Vhnc6LaiEKJBlZCulpGP4VUrB/f9c3fc80797af82da88c2edbc56222b028661b73e3beada49d03e4b660bd85d1.png)
+
+On the second day, i started a little work on the RP2040 mcu following the hardware design guide docs.
+
+![image](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/9mI9SK5Vhnc6LaiEKJBlZCulpGP4VUrB/d6adbeb650cbe973be693b31edc4f43f4dfd31c79f5b7e0f105810b0845850d5.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/f96c17ed-fec7-4e81-aad1-caf7c4a13347/video.mp4)
 
