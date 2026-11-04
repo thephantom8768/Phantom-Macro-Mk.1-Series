@@ -22,6 +22,7 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
 
 ## ⚠️ Build Warnings
 
+> [!WARNING]
 > **DIY Soldering Required:** This is a fully self-assembled project. It is not a plug-and-play kit and requires intermediate soldering experience.
 
 * **Double-Sided Assembly:** Depending on the macro-pad, components might need to be soldered onto **both the top and bottom** of the PCB.
