@@ -1,0 +1,4 @@
+CUSTOM_MATRIX = yes
+SRC += matrix.c
+ENCODER_ENABLE = yes
+ANALOG_ENABLE = yes
