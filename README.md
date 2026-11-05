@@ -46,13 +46,7 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
   
   #### Schematic
 
-<table>
-  <tr>
-    <td colspan="4">
-      <img src="Pics/Pad/Phantom%20Macro%20Mk1%20Pad.svg" alt="Phantom Macro Mk1 Pad">
-    </td>
-  </tr>
-</table>
+![Phantom Macro Mk1 Pad](<Pics/Pad/Phantom Macro Mk1 Pad.svg>)
 
 #### PCB Layout
 
@@ -80,7 +74,35 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
 
 #### Case
 
-<img width="461" height="318" alt="image" src="https://github.com/user-attachments/assets/8236b78d-d051-4c87-a8d8-18863a6aefc2" />
+<table>
+  <tbody>
+    <tr>
+      <td width="50%">
+        <a href="Pics/Pad/Case1.png" target="_blank">
+          <img src="Pics/Pad/Case1.png" alt="Case 1 - Top Left" style="width: 100%;">
+        </a>
+      </td>
+      <td width="50%">
+        <a href="Pics/Pad/Case2.png" target="_blank">
+          <img src="Pics/Pad/Case2.png" alt="Case 2 - Top Right" style="width: 100%;">
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <a href="Pics/Pad/Case3.png" target="_blank">
+          <img src="Pics/Pad/Case3.png" alt="Case 3 - Bottom Left" style="width: 100%;">
+        </a>
+      </td>
+      <td width="50%">
+        <a href="Pics/Pad/Case4.png" target="_blank">
+          <img src="Pics/Pad/Case4.png" alt="Case 4 - Bottom Right" style="width: 100%;">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 </details>
 
