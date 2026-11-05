@@ -49,7 +49,7 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
 <table>
   <tr>
     <td colspan="4">
-      <img width="2422" height="1635" alt="Phantom Macro Mk1 Pad Schematic" src="https://github.com/user-attachments/assets/08a55f5e-1a61-45fc-8142-8ddf77302a0d" />
+      <img src="Pics/Pad/Phantom%20Macro%20Mk1%20Pad.svg" alt="Phantom Macro Mk1 Pad">
     </td>
   </tr>
 </table>
@@ -57,22 +57,85 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
 #### PCB Layout
 
 4 Layers PCB
-| Front (1st layer)|Back (4th layer) |
-| ----- | ----- |
-|<img width="449" height="545" alt="image" src="https://github.com/user-attachments/assets/0001e097-93a2-4982-91f4-cc1a449be76a" />  | <img width="456" height="542" alt="image" src="https://github.com/user-attachments/assets/bb50f4f8-9e90-4ff9-8800-4ac2f376bb48" /> |
+
+<div style="width: 600px; height: 400px; overflow: hidden; display: inline-block;">
+  <a href="Pics/Pad/Phantom Macro Mk1 Pad Schematic.svg" target="_blank">
+    <img src="Pics/Pad/Phantom Macro Mk1 Pad Schematic.svg" 
+         style="width: 200%; height: 100%; object-fit: cover; object-position: center; margin: -5%;">
+  </a>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th width="50%">Front (1st layer)</th>
+      <th width="50%">Back (4th layer)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <div style="overflow: hidden; width: 100%; display: block;">
+          <a href="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Schematic%20Top.svg" target="_blank">
+            <img src="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Schematic%20Top.svg" 
+                 alt="Phantom Macro Mk1 Schematic Top" 
+                 style="width: 150%; max-width: none; margin: -25% -25%; display: block;">
+          </a>
+        </div>
+      </td>
+      <td>
+        <div style="overflow: hidden; width: 100%; display: block;">
+          <a href="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Schematic%20Bottom.svg" target="_blank">
+            <img src="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Schematic%20Bottom.svg" 
+                 alt="Phantom Macro Mk1 Schematic Bottom" 
+                 style="width: 150%; max-width: none; margin: -25% -25%; display: block;">
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Top%20Trace.png" target="_blank">
+          <img src="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Top%20Trace.png" alt="Phantom Macro Mk1 Pad Top Trace" style="width: 100%;">
+        </a>
+      </td>
+      <td>
+        <a href="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Bottom%20Trace.png" target="_blank">
+          <img src="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Bottom%20Trace.png" alt="Phantom Macro Mk1 Pad Bottom Trace" style="width: 100%;">
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 
 #### PCB
 | Front | Back |
 | ----- | ---- |
-| <img width="459" height="556" alt="image" src="https://github.com/user-attachments/assets/81e3826a-b3f5-4868-a1f1-81d2d13dd24a" /> | <img width="479" height="551" alt="image" src="https://github.com/user-attachments/assets/97973c72-bd7c-47d6-ade0-03e3334ad2ff" /> |
-| <img width="591" height="501" alt="image" src="https://github.com/user-attachments/assets/177ae6ac-f981-46e1-9470-4014034f1d7a" /> | <img width="627" height="469" alt="image" src="https://github.com/user-attachments/assets/d30bfc24-4f4b-456c-b9f2-51a553a2254b" /> |
+| ![Phantom Macro Mk1 Ortho3](Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Ortho3.png) | ![Phantom Macro Mk1 Ortho4](Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Ortho4.png) |
+| ![Phantom Macro Mk1 Ortho1](Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Ortho1.png) | ![Phantom Macro Mk1 Ortho2](Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Ortho2.png) |
 
 #### Case
 
 <img width="461" height="318" alt="image" src="https://github.com/user-attachments/assets/8236b78d-d051-4c87-a8d8-18863a6aefc2" />
 
 </details>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 <details>
@@ -82,7 +145,7 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
   
   #### Schematic
 
-  ![Phantom Macro Mk.1 MIDI](/Phantom%20Macro%20Mk1%20Series%20Pics/Phantom%20Macro%20Mk.1%20MIDI.svg)
+  ![Phantom Macro Mk.1 MIDI](Pics/MIDI/Phantom%20Macro%20Mk.1%20MIDI.svg)
 
   ### PCB Layout 
 
