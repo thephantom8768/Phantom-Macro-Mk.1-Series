@@ -1,12 +1,3 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
-10k,2,JLCPCB,$0.01,$0.02,https://jlcpcb.com
-120R,2,JLCPCB,$0.01,$0.02,https://jlcpcb.com
-PEC11R-4020F-S0024,1,Taobao,$3.49,$3.49,https://intl.taobao.com/sk/_b.Rc53Te
-CD74HC4067SM96,2,Taobao,$0.43,$0.86,https://intl.taobao.com/sk/_b.Cc540g
-SW_MX_HE (per lot),2,Milktooth,$6.79,$13.58,https://milktooth.com/products/dove-he
-AP2112K-3.3TRG1,1,Taobao,$0.04,$0.04,https://intl.taobao.com/sk/_b.uc542n
-PCB,1,JLCPCB,$31.10,$31.10,https://jlcpcb.com
-DRV5055A3QDBZR (10 per lot),2,Taobao,$3.10,$6.20,https://intl.taobao.com/sk/_b.Qc5rRz
-CDSOT23-SM712_C5122012,4,AliXpress,$1.25,$5.00,https://www.aliexpress.com/item/1005009942026210.html?spm=a2g0o.productlist.main.2.58381b2b6AzcCz&algo_pvid=e784bd78-7e96-47ea-bd55-f165e36d73ed&pdp_ext_f=%7B%22order%22%3A%2247%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009942026210%7C_p_origin_prod%3A
 TPD1E10B06DPYR,1,AliXpress,$3.17,$3.17,https://www.aliexpress.com/item/1005013163456692.html?spm=a2g0o.productlist.main.3.403777296D0nSF&algo_pvid=cdd7cb6e-a110-4e33-8396-d0f6429dba3b&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005013163456692%7C_p_origin_prod%3A
 Estimated total shipping,1,,,$0.00,
