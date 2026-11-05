@@ -58,55 +58,17 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
 
 4 Layers PCB
 
-<div style="width: 600px; height: 400px; overflow: hidden; display: inline-block;">
-  <a href="Pics/Pad/Phantom Macro Mk1 Pad Schematic.svg" target="_blank">
-    <img src="Pics/Pad/Phantom Macro Mk1 Pad Schematic.svg" 
-         style="width: 200%; height: 100%; object-fit: cover; object-position: center; margin: -5%;">
+<div style="width: max; height: max; overflow: hidden; display: inline-block;">
+  <a href="Pics/Pad/Phantom Macro Mk1 Pad Schematic.png" target="_blank">
+    <img src="Pics/Pad/Phantom Macro Mk1 Pad Schematic.png" 
+         style="width: 100%; height: 100%; object-fit: cover; object-position: center;">
   </a>
 </div>
 
-<table>
-  <thead>
-    <tr>
-      <th width="50%">Front (1st layer)</th>
-      <th width="50%">Back (4th layer)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <div style="overflow: hidden; width: 100%; display: block;">
-          <a href="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Schematic%20Top.svg" target="_blank">
-            <img src="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Schematic%20Top.svg" 
-                 alt="Phantom Macro Mk1 Schematic Top" 
-                 style="width: 150%; max-width: none; margin: -25% -25%; display: block;">
-          </a>
-        </div>
-      </td>
-      <td>
-        <div style="overflow: hidden; width: 100%; display: block;">
-          <a href="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Schematic%20Bottom.svg" target="_blank">
-            <img src="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Schematic%20Bottom.svg" 
-                 alt="Phantom Macro Mk1 Schematic Bottom" 
-                 style="width: 150%; max-width: none; margin: -25% -25%; display: block;">
-          </a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Top%20Trace.png" target="_blank">
-          <img src="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Top%20Trace.png" alt="Phantom Macro Mk1 Pad Top Trace" style="width: 100%;">
-        </a>
-      </td>
-      <td>
-        <a href="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Bottom%20Trace.png" target="_blank">
-          <img src="Pics/Pad/Phantom%20Macro%20Mk1%20Pad%20Bottom%20Trace.png" alt="Phantom Macro Mk1 Pad Bottom Trace" style="width: 100%;">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Front (1st layer) | Bottom (4th layer) |
+| ----------------- | ------------------ |
+| ![Phantom Macro Mk1 pad Schematic Top](<Pics/Pad/Phantom Macro Mk1 Pad Schematic Top.png>) | ![Phantom Macro Mk1 Pad Schematic Bottom](<Pics/Pad/Phantom Macro Mk1 Pad Schematic Bottom.png>) |
+| ![Phantom Macro Mk1 Pad Top Trace](<Pics/Pad/Phantom Macro Mk1 Pad Top Trace.png>) | ![Phantom Macro Mk1 Pad Bottom Trace](<Pics/Pad/Phantom Macro Mk1 Pad Bottom Trace.png>) |
 
 
 
