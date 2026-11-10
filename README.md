@@ -113,15 +113,6 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
 
 
 
-
-
-
-
-
-
-
-
-
 <details>
   <summary><b>🎹 Phantom-Macro-Mk.1 MIDI (click here)</b></summary>
   
@@ -129,22 +120,27 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
   
   #### Schematic
 
-  ![Phantom Macro Mk.1 MIDI](Pics/MIDI/Phantom%20Macro%20Mk.1%20MIDI.svg)
+  ![Phantom Macro Mk1 MIDI](<Pics/MIDI/Phantom Macro Mk1 MIDI.svg>)
+
 
   ### PCB Layout 
 
   2 Layers PCB
+  
+  ![Phantom Macro Mk1 MIDI Schematic](<Pics/MIDI/Phantom Macro Mk1 MIDI Schematic.svg>)
+
+  
   | Front | Back |
   | ----- | ----- |
-  | <img width="740" height="382" alt="image" src="https://github.com/user-attachments/assets/7236c5a6-cef0-444d-bc84-af4231da4f3a" /> | <img width="742" height="385" alt="image" src="https://github.com/user-attachments/assets/c4b7e82e-9536-4c48-bc7e-53beeb5780cb" /> |
-
-
+  | ![Phantom Macro Mk1 MIDI Schematic Top](<Pics/MIDI/Phantom Macro Mk1 MIDI Schematic Top.svg>) | ![PPhantom Macro Mk1 MIDI Schematic Bottom](<Pics/MIDI/Phantom Macro Mk1 MIDI Schematic Bottom.svg>) |
+  | ![Phantom Macro Mk1 MIDI Top Trace](<Pics/MIDI/Phantom Macro Mk1 MIDI Top Trace.png>) | ![Phantom Macro Mk1 MIDI Bottom Trace](<Pics/MIDI/Phantom Macro Mk1 MIDI Bottom Trace.png>) |
+  
   
   #### PCB
   | Front | Back |
   | ----- | ---- |
-  | <img width="643" height="335" alt="image" src="https://github.com/user-attachments/assets/96f874e7-35f3-4f54-9ff4-8f17c9220d99" /> | <img width="632" height="326" alt="image" src="https://github.com/user-attachments/assets/b2dbd93e-890a-4bb6-b16d-ac40cab74a6b" /> |
-  | <img width="633" height="352" alt="image" src="https://github.com/user-attachments/assets/38c821ae-4fca-450c-9def-74186a181c30" /> | <img width="614" height="302" alt="image" src="https://github.com/user-attachments/assets/d1df684d-2aa0-4dae-b32b-02cf04cc243d" /> |
+  | ![Phantom Macro Mk1 MIDI Top](<Pics/MIDI/Phantom Macro Mk1 MIDI Top.png>) | ![Phantom Macro Mk1 MIDI Bottom](<Pics/MIDI/Phantom Macro Mk1 MIDI Bottom.png>) |
+  | ![Phantom Macro Mk1 MIDI ortho1](<Pics/MIDI/Phantom Macro Mk1 MIDI ortho1.png>) | ![Phantom Macro Mk1 MIDI ortho2](<Pics/MIDI/Phantom Macro Mk1 MIDI ortho2.png>) |
 
 
 
