@@ -123,7 +123,7 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
   ![Phantom Macro Mk1 MIDI](<Pics/MIDI/Phantom Macro Mk1 MIDI.svg>)
 
 
-  ### PCB Layout 
+  #### PCB Layout 
 
   2 Layers PCB
   
