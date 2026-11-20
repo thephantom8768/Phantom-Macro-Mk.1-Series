@@ -146,3 +146,34 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
 
 </details>
 
+
+
+
+<details>
+  <summary><b>📱 Phantom-Macro-Mk.1-Prism (click here)</b></summary>
+
+  ### Macro Mk.1 Prism
+
+  #### Schematic
+
+  ![Phantom Macro Mk1 Prism](<Pics/Prism/Phantom Macro Mk1 Prism.svg>)
+
+  #### PCB Layout
+
+  4 Layers PCB
+
+  ![Phantom Macro Mk1 Prism Schematic](<Pics/Prism/Phantom Macro Mk1 Prism Schematic.svg>)
+
+  | Front (1st layer) | Bottom (4th layer) |
+  | ----------------- | ------------------ |
+  |![Phantom Macro Mk1 Prism Schematic Top](<Pics/Prism/Phantom Macro Mk1 Prism Schematic Top.svg>) | ![Phantom Macro Mk1 Prism Schematic Bottom](<Pics/Prism/Phantom Macro Mk1 Prism Schematic Bottom.svg>) |
+  |![Phantom Macro Mk1 Prism Top Trace](<Pics/Prism/Phantom Macro Mk1 Prism Top Trace.png>) | ![Phantom Macro Mk1 Prism Bottom Trace](<Pics/Prism/Phantom Macro Mk1 Prism Bottom Trace.png>) |
+
+  #### PCB
+
+  | Front | Back |
+  | ----- | ---- |
+  |![Phantom Macro Mk1 Prism Top](<Pics/Prism/Phantom Macro Mk1 Prism Top.png>) | ![Phantom Macro Mk1 Prism Bottom](<Pics/Prism/Phantom Macro Mk1 Prism Bottom.png>) |
+  |![Phantom Macro Mk1 Prism Ortho1](<Pics/Prism/Phantom Macro Mk1 Prism Ortho1.png>) | ![Phantom Macro Mk1 Prism Ortho2](<Pics/Prism/Phantom Macro Mk1 Prism Ortho2.png>) |
+
+</details>
