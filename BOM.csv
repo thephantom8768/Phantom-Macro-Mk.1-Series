@@ -1,27 +1,66 @@
-Item,Qty,Supplier,Cost/item,Total Cost,link
-1uF,18,TaoBao,$0.00,$0.00,https://item.taobao.com/item.htm?from=cart&id=630712731066&mi_id=0000al4WTUQ5X21p-8ZjXHPp_Itdpx_EAjodNpGeP4aEVNs&skuId=6002059344204&spm=a1z0d.6639537%2F202410.item.d630712731066.5cb6748437vx0x&upStreamPrice=3&xxc=taobaoSearch
-0.1uF,16,TaoBao,$0.00,$0.00,https://item.taobao.com/item.htm?from=cart&id=731471380840&mi_id=0000uqHmr7MNlsg6ITOFe9lEkzLfQ6dClRDQPXOZWJxfiwA&skuId=6001897764247&spm=a1z0d.6639537%2F202410.item.d731471380840.5cb6748437vx0x&upStreamPrice=149&xxc=taobaoSearch
-100nF,8,TaoBao,$0.00,$0.00,https://item.taobao.com/item.htm?abbucket=0&id=733879274781&mi_id=0000puJw24Z-X-63pp9TeFMC3K-1hlBL7el5oYAFCzZx88o&ns=1&skuId=6120921533745&spm=a21xtw.29978518.product_shelf.1.29c47f7dckOS89&xxc=taobaoSearch
-10uF,2,TaoBao,$0.00,$0.00,https://item.taobao.com/item.htm?abbucket=0&id=977236759812&mi_id=0000SlOE4R6maPAcaFaKU9j_dEmC1wzG6NMdIac60mMDGyQ&ns=1&skuId=5958414476976&spm=a21xtw.29978518.product_shelf.1.14d17f7dfDhif9&xxc=taobaoSearch
-0.1uF,2,TaoBao,$0.00,$0.00,https://item.taobao.com/item.htm?abbucket=0&id=730748325366&mi_id=0000b-3xO60-N66jwNW75SX5QBMGWBxlmaTJdO2sKybi9Zk&ns=1&skuId=6128339268979&spm=a21xtw.29978518.product_shelf.2.244d7f7dYTLyyX&xxc=taobaoSearch
-PMEG3030EP,1,TaoBao,$0.36,$0.36,https://item.taobao.com/item.htm?abbucket=20&id=694578569169&mi_id=0000eskWBRAcbbUrxhQKX9awYrqvr2Y7ETEZ-tTlruDZxHc&ns=1&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22686f61a8094d2cbfb6adf36f42a6a8fe%22%7D&xxc=taobaoSearch
-USBLC6-2SC6,1,TaoBao,$0.23,$0.23,https://item.taobao.com/item.htm?id=763430084934&mi_id=0000eS-IDV4uDILkIzMES0IidgusC4Cfun3KrsnqBLMBnR8&spm=a1z10.3-c-s.w4002-24706531953.13.70906a4bt2aHxH
-USB_C_Receptacle_USB2.0_16P,1,TaoBao,$0.08,$0.08,https://item.taobao.com/item.htm?id=591211481748&mi_id=0000rYhN0I7822Z-tbuef6LUVB0j9IkPTSu28FjftsmaSeY&spm=a1z10.3-c-s.w4002-24706531953.11.4c446a4bD2apiT
-Conn_01x08,2,TaoBao,$1.04,$2.08,https://item.taobao.com/item.htm?ali_refid=a3_mm_12852562_1778064_116286300242%3A1683209218%3AH%3APogo%3A42ec11eaf52e5fd050ce110009cc65aa&ali_trackid=318_42ec11eaf52e5fd050ce110009cc65aa&id=967973228845&mi_id=0000pk-bUfTFyPcHy3tl6YKGuN8ozp1mefAY99R_lzKw1H8&mm_sceneid=0_0_5155006839_0_0&priceTId=210149c017938877192372855e0a2b&skuId=6079659407021&spm=a21n57.1.hoverItem.8&utparam=%7B%22aplus_abtest%22%3A%22bf731e47b240dbf94a0a3c5d477fcc96%22%7D&xxc=taobaoSearch
-SK6803MINI-E-001,16,TaoBao,$0.04,$0.64,https://item.taobao.com/item.htm?abbucket=20&id=1074492412694&mi_id=0000dA7uM_45JYRVRRugobF8m3LioVfXZ0QrAzbNgNcokz4&ns=1&priceTId=210149c017938851476088562e0b2a&skuId=6123735805525&spm=a21n57.1.hoverItem.4&utparam=%7B%22aplus_abtest%22%3A%2291a8a013f385cbd922c129f0ffd0849c%22%7D&xxc=taobaoSearch
-5.1k,2,TaoBao,$0.00,$0.00,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853
-47R,1,TaoBao,$0.00,$0.00,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853
-10k,1,TaoBao,$0.00,$0.00,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853
-PEC11R-4020F-S0024,1,TaoBao,$3.54,$3.54,https://item.taobao.com/item.htm?abbucket=20&id=755153501399&mi_id=0000d1KVYc9PLAiUf7yZDZien5cMz6NYSzF6LgxnSWf2vF8&ns=1&priceTId=2101280917938857079283470e0b11&spm=a21n57.1.hoverItem.3&utparam=%7B%22aplus_abtest%22%3A%2277d81609f314d63b240c2eccf5d4b24c%22%7D&xxc=taobaoSearch
-SPST B3U-1000P,2,TaoBao,$0.10,$0.20,https://item.taobao.com/item.htm?abbucket=20&id=1061900134323&mi_id=0000cECo-WNayVC0cuuaQBpG2KfAOE-mrxLC75bU-_PvpHs&ns=1&priceTId=2101280917938859265281215e0b11&skuId=6109121765749&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%229b31f5fe43d8ed6f8d609f245b103d16%22%7D&xxc=taobaoSearch
-SW_MX_HE,16,Milktooth,$0.85,$13.60,https://milktooth.com/products/dove-he
-AP2112K-3.3TRG1,1,TaoBao,$0.55,$0.55,https://intl.taobao.com/sk/_b.OcKv5a
-CD74HC4067SM96,2,TaoBao,$0.35,$0.70,https://item.taobao.com/item.htm?id=659268510241&mi_id=00007t08ZjTGr0dE6JO-c6PR46p515MgsLggsRVWRBjuEDs&spm=a1z10.3-c-s.w4002-24706531953.9.498a6a4bBQBChn
-74AHCT1G125QW5-7,1,TaoBao,$0.31,$0.31,https://item.taobao.com/item.htm?id=581190029859&mi_id=0000CTFAB4j7orvZ1DhWIXAYaBHRQ-sz7MsJQjxJ-0odpUI&spm=a1z10.3-c-s.w4002-24706531953.9.7ca96a4bm1A5lH
-STM32G431CBT6,1,TaoBao,$3.67,$3.67,https://item.taobao.com/item.htm?id=662218011027&mi_id=0000xq4aMEHxmucCiirVDsV5pR9gitUvAOHZ1TP47FlkxMg&spm=a1z10.3-c-s.w4002-24706531953.9.5ce46a4bROEQ5z
-LTC2855CGN#PBF,2,AliXpress,$8.44,$16.88,https://a.aliexpress.com/_c40x90oj
-CDSOT23-SM712_C5122012,4,TaoBao,$0.05,$0.20,https://detail.tmall.com/item.htm?from=cart&id=903941269382&mi_id=00000tKdVIHf3nfcWPX1CSxi4GOAuD0wd4btw1K3uEyuwVE&skuId=5930106359705&spm=a1z0d.6639537%2F202410.item.d903941269382.39217484SZWMHZ&upStreamPrice=180&xxc=taobaoSearch
-TPD1E10B06DPYR,4,TaoBao,$0.08,$0.32,https://item.taobao.com/item.htm?id=594637912684&mi_id=0000WoYJ5pemUoIalN034fmKGxNnJA6svdvwImsAMVKaWWE&spm=a1z10.3-c-s.w4002-24706531953.9.26c56a4bz0ZlXk
-DRV5055,16,TaoBao,$0.94,$15.04,https://detail.tmall.com/item.htm?from=cart&id=660549060773&mi_id=0000_ZZOSw2v_xhIaFn6jJ77Sy2Qs9Fiy2NeGRRSByrpko4&skuId=5097480923683&spm=a1z0d.6639537%2F202410.item.d660549060773.220a7484QdR42R&upStreamPrice=2000
-PCB,1,JLCPCB,$29.30,$29.30,https://JLCPCB.com
-Estimated total shipping,1,,,$7.13,
+Phantom Macro Mk1 Pad,,,,,,,,,,,
+Item,Qty,Supplier,Cost/item,Total Cost,link,,,,,,
+1uF,18,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?from=cart&id=630712731066&mi_id=0000al4WTUQ5X21p-8ZjXHPp_Itdpx_EAjodNpGeP4aEVNs&skuId=6002059344204&spm=a1z0d.6639537%2F202410.item.d630712731066.5cb6748437vx0x&upStreamPrice=3&xxc=taobaoSearch,,,,,,
+0.1uF,16,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?from=cart&id=731471380840&mi_id=0000uqHmr7MNlsg6ITOFe9lEkzLfQ6dClRDQPXOZWJxfiwA&skuId=6001897764247&spm=a1z0d.6639537%2F202410.item.d731471380840.5cb6748437vx0x&upStreamPrice=149&xxc=taobaoSearch,,,,,,
+100nF,8,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?abbucket=0&id=733879274781&mi_id=0000puJw24Z-X-63pp9TeFMC3K-1hlBL7el5oYAFCzZx88o&ns=1&skuId=6120921533745&spm=a21xtw.29978518.product_shelf.1.29c47f7dckOS89&xxc=taobaoSearch,,,,,,
+10uF,2,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?abbucket=0&id=977236759812&mi_id=0000SlOE4R6maPAcaFaKU9j_dEmC1wzG6NMdIac60mMDGyQ&ns=1&skuId=5958414476976&spm=a21xtw.29978518.product_shelf.1.14d17f7dfDhif9&xxc=taobaoSearch,,,,,,
+0.1uF,2,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?abbucket=0&id=730748325366&mi_id=0000b-3xO60-N66jwNW75SX5QBMGWBxlmaTJdO2sKybi9Zk&ns=1&skuId=6128339268979&spm=a21xtw.29978518.product_shelf.2.244d7f7dYTLyyX&xxc=taobaoSearch,,,,,,
+PMEG3030EP,1,TaoBao,$0.36, $0.36 ,https://item.taobao.com/item.htm?abbucket=20&id=694578569169&mi_id=0000eskWBRAcbbUrxhQKX9awYrqvr2Y7ETEZ-tTlruDZxHc&ns=1&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22686f61a8094d2cbfb6adf36f42a6a8fe%22%7D&xxc=taobaoSearch,,,,,,
+USBLC6-2SC6,1,TaoBao,$0.23, $0.23 ,https://item.taobao.com/item.htm?id=763430084934&mi_id=0000eS-IDV4uDILkIzMES0IidgusC4Cfun3KrsnqBLMBnR8&spm=a1z10.3-c-s.w4002-24706531953.13.70906a4bt2aHxH,,,,,,
+USB_C_Receptacle_USB2.0_16P,1,TaoBao,$0.08, $0.08 ,https://item.taobao.com/item.htm?id=591211481748&mi_id=0000rYhN0I7822Z-tbuef6LUVB0j9IkPTSu28FjftsmaSeY&spm=a1z10.3-c-s.w4002-24706531953.11.4c446a4bD2apiT,,,,,,
+Conn_01x08,2,TaoBao,$1.04, $2.08 ,https://item.taobao.com/item.htm?ali_refid=a3_mm_12852562_1778064_116286300242%3A1683209218%3AH%3APogo%3A42ec11eaf52e5fd050ce110009cc65aa&ali_trackid=318_42ec11eaf52e5fd050ce110009cc65aa&id=967973228845&mi_id=0000pk-bUfTFyPcHy3tl6YKGuN8ozp1mefAY99R_lzKw1H8&mm_sceneid=0_0_5155006839_0_0&priceTId=210149c017938877192372855e0a2b&skuId=6079659407021&spm=a21n57.1.hoverItem.8&utparam=%7B%22aplus_abtest%22%3A%22bf731e47b240dbf94a0a3c5d477fcc96%22%7D&xxc=taobaoSearch,,,,,,
+SK6803MINI-E-001,16,TaoBao,$0.04, $0.64 ,https://item.taobao.com/item.htm?abbucket=20&id=1074492412694&mi_id=0000dA7uM_45JYRVRRugobF8m3LioVfXZ0QrAzbNgNcokz4&ns=1&priceTId=210149c017938851476088562e0b2a&skuId=6123735805525&spm=a21n57.1.hoverItem.4&utparam=%7B%22aplus_abtest%22%3A%2291a8a013f385cbd922c129f0ffd0849c%22%7D&xxc=taobaoSearch,,,,,,
+5.1k,2,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853,,,,,,
+47R,1,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853,,,,,,
+10k,1,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853,,,,,,
+PEC11R-4020F-S0024,1,TaoBao,$3.54, $3.54 ,https://item.taobao.com/item.htm?abbucket=20&id=755153501399&mi_id=0000d1KVYc9PLAiUf7yZDZien5cMz6NYSzF6LgxnSWf2vF8&ns=1&priceTId=2101280917938857079283470e0b11&spm=a21n57.1.hoverItem.3&utparam=%7B%22aplus_abtest%22%3A%2277d81609f314d63b240c2eccf5d4b24c%22%7D&xxc=taobaoSearch,,,,,,
+SPST B3U-1000P,2,TaoBao,$0.10, $0.20 ,https://item.taobao.com/item.htm?abbucket=20&id=1061900134323&mi_id=0000cECo-WNayVC0cuuaQBpG2KfAOE-mrxLC75bU-_PvpHs&ns=1&priceTId=2101280917938859265281215e0b11&skuId=6109121765749&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%229b31f5fe43d8ed6f8d609f245b103d16%22%7D&xxc=taobaoSearch,,,,,,
+SW_MX_HE,16,Milktooth,$0.85, $13.60 ,https://milktooth.com/products/dove-he,,,,,,
+AP2112K-3.3TRG1,1,TaoBao,$0.55, $0.55 ,https://intl.taobao.com/sk/_b.OcKv5a,,,,,,
+CD74HC4067SM96,2,TaoBao,$0.35, $0.70 ,https://item.taobao.com/item.htm?id=659268510241&mi_id=00007t08ZjTGr0dE6JO-c6PR46p515MgsLggsRVWRBjuEDs&spm=a1z10.3-c-s.w4002-24706531953.9.498a6a4bBQBChn,,,,,,
+74AHCT1G125QW5-7,1,TaoBao,$0.31, $0.31 ,https://item.taobao.com/item.htm?id=581190029859&mi_id=0000CTFAB4j7orvZ1DhWIXAYaBHRQ-sz7MsJQjxJ-0odpUI&spm=a1z10.3-c-s.w4002-24706531953.9.7ca96a4bm1A5lH,,,,,,
+STM32G431CBT6,1,TaoBao,$3.67, $3.67 ,https://item.taobao.com/item.htm?id=662218011027&mi_id=0000xq4aMEHxmucCiirVDsV5pR9gitUvAOHZ1TP47FlkxMg&spm=a1z10.3-c-s.w4002-24706531953.9.5ce46a4bROEQ5z,,,,,,
+LTC2855CGN#PBF,2,AliXpress,$8.44, $16.88 ,https://a.aliexpress.com/_c40x90oj,,,,,,
+CDSOT23-SM712_C5122012,4,TaoBao,$0.05, $0.20 ,https://detail.tmall.com/item.htm?from=cart&id=903941269382&mi_id=00000tKdVIHf3nfcWPX1CSxi4GOAuD0wd4btw1K3uEyuwVE&skuId=5930106359705&spm=a1z0d.6639537%2F202410.item.d903941269382.39217484SZWMHZ&upStreamPrice=180&xxc=taobaoSearch,,,,,,
+TPD1E10B06DPYR,4,TaoBao,$0.08, $0.32 ,https://item.taobao.com/item.htm?id=594637912684&mi_id=0000WoYJ5pemUoIalN034fmKGxNnJA6svdvwImsAMVKaWWE&spm=a1z10.3-c-s.w4002-24706531953.9.26c56a4bz0ZlXk,,,,,,
+DRV5055,16,TaoBao,$0.94, $15.04 ,https://detail.tmall.com/item.htm?from=cart&id=660549060773&mi_id=0000_ZZOSw2v_xhIaFn6jJ77Sy2Qs9Fiy2NeGRRSByrpko4&skuId=5097480923683&spm=a1z0d.6639537%2F202410.item.d660549060773.220a7484QdR42R&upStreamPrice=2000,,,,,,
+PCB,1,JLCPCB,$29.30, $29.30 ,https://JLCPCB.com,,,,,,
+Estimated total shipping,1,,, $7.13 ,,,,,,,
+,,,,,,,,,,,
+Total,,,, $117.60 ,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+Phantom Macro Mk1 MIDI,,,,,,,,,,,
+Item,Qty,Supplier,Cost/item,Total Cost link,,,,,,,
+1uF,3,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?from=cart&id=630712731066&mi_id=0000al4WTUQ5X21p-8ZjXHPp_Itdpx_EAjodNpGeP4aEVNs&skuId=6002059344204&spm=a1z0d.6639537%2F202410.item.d630712731066.5cb6748437vx0x&upStreamPrice=3&xxc=taobaoSearch,,,,,,
+4.7uF,1,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?from=cart&id=630712731066&mi_id=0000al4WTUQ5X21p-8ZjXHPp_Itdpx_EAjodNpGeP4aEVNs&skuId=6002059344204&spm=a1z0d.6639537%2F202410.item.d630712731066.5cb6748437vx0x&upStreamPrice=3&xxc=taobaoSearch,,,,,,
+100nF,14,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?abbucket=0&id=733879274781&mi_id=0000puJw24Z-X-63pp9TeFMC3K-1hlBL7el5oYAFCzZx88o&ns=1&skuId=6120921533745&spm=a21xtw.29978518.product_shelf.1.29c47f7dckOS89&xxc=taobaoSearch,,,,,,
+0.1uF,2,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?abbucket=0&id=733879274781&mi_id=0000puJw24Z-X-63pp9TeFMC3K-1hlBL7el5oYAFCzZx88o&ns=1&skuId=6120921533745&spm=a21xtw.29978518.product_shelf.1.29c47f7dckOS89&xxc=taobaoSearch,,,,,,
+10uF,2,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?from=cart&id=630712731066&mi_id=0000al4WTUQ5X21p-8ZjXHPp_Itdpx_EAjodNpGeP4aEVNs&skuId=6002059344204&spm=a1z0d.6639537%2F202410.item.d630712731066.5cb6748437vx0x&upStreamPrice=3&xxc=taobaoSearch,,,,,,
+PMEG3030EP,1,TaoBao,$0.36, $0.36 ,https://item.taobao.com/item.htm?abbucket=20&id=694578569169&mi_id=0000eskWBRAcbbUrxhQKX9awYrqvr2Y7ETEZ-tTlruDZxHc&ns=1&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22686f61a8094d2cbfb6adf36f42a6a8fe%22%7D&xxc=taobaoSearch,,,,,,
+USB_C_Receptacle_USB2.0_16P,1,TaoBao,$0.08, $0.08 ,https://item.taobao.com/item.htm?id=591211481748&mi_id=0000rYhN0I7822Z-tbuef6LUVB0j9IkPTSu28FjftsmaSeY&spm=a1z10.3-c-s.w4002-24706531953.11.4c446a4bD2apiT,,,,,,
+Conn_01x08,2,TaoBao,$1.04, $2.08 ,https://item.taobao.com/item.htm?ali_refid=a3_mm_12852562_1778064_116286300242%3A1683209218%3AH%3APogo%3A42ec11eaf52e5fd050ce110009cc65aa&ali_trackid=318_42ec11eaf52e5fd050ce110009cc65aa&id=967973228845&mi_id=0000pk-bUfTFyPcHy3tl6YKGuN8ozp1mefAY99R_lzKw1H8&mm_sceneid=0_0_5155006839_0_0&priceTId=210149c017938877192372855e0a2b&skuId=6079659407021&spm=a21n57.1.hoverItem.8&utparam=%7B%22aplus_abtest%22%3A%22bf731e47b240dbf94a0a3c5d477fcc96%22%7D&xxc=taobaoSearch,,,,,,
+SK6803MINI-E-001,4,TaoBao,$0.04, $0.16 ,https://item.taobao.com/item.htm?abbucket=20&id=1074492412694&mi_id=0000dA7uM_45JYRVRRugobF8m3LioVfXZ0QrAzbNgNcokz4&ns=1&priceTId=210149c017938851476088562e0b2a&skuId=6123735805525&spm=a21n57.1.hoverItem.4&utparam=%7B%22aplus_abtest%22%3A%2291a8a013f385cbd922c129f0ffd0849c%22%7D&xxc=taobaoSearch,,,,,,
+MX_SW_HS,4,Milktooth,$6.50, $6.50 ,https://milktooth.com/products/bobagum,,,,,,
+PTA6043-2015DPB502,4,TaoBao,$3.63, $14.52 ,https://item.taobao.com/item.htm?abbucket=20&id=903442015461&mi_id=0000Ysj7kPRS8-B2kGOjz5bBbAH-_qmzt0Sdu_G5U5Hl91k&ns=1&priceTId=2101280917951787144365284e0c9a&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%22e29ce5a78cbca2eaa3bef8ca78e5525b%22%7D&xxc=taobaoSearch,,,,,,
+47R,1,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853,,,,,,
+5.2k,2,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853,,,,,,
+10k,3,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853,,,,,,
+100R,1,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853,,,,,,
+4.7k,2,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853,,,,,,
+2k,12,TaoBao,$0.00, $0.00 ,https://item.taobao.com/item.htm?id=525633713781&mi_id=0000g-i6i7rbGTMB-bq2S1yP6nqBw6r65eVT-r_6Tofllmg&spm=a1z10.3-c-s.w4002-24706531953.18.2f566a4bnwe67L&skuId=5699327116853,,,,,,
+PEC11R-4020F-S0024,3,TaoBao,$3.54, $3.54 ,https://item.taobao.com/item.htm?abbucket=20&id=755153501399&mi_id=0000d1KVYc9PLAiUf7yZDZien5cMz6NYSzF6LgxnSWf2vF8&ns=1&priceTId=2101280917938857079283470e0b11&spm=a21n57.1.hoverItem.3&utparam=%7B%22aplus_abtest%22%3A%2277d81609f314d63b240c2eccf5d4b24c%22%7D&xxc=taobaoSearch,,,,,,
+SW_Push,2,TaoBao,$0.10, $0.20 ,https://item.taobao.com/item.htm?abbucket=20&id=1061900134323&mi_id=0000cECo-WNayVC0cuuaQBpG2KfAOE-mrxLC75bU-_PvpHs&ns=1&priceTId=2101280917938859265281215e0b11&skuId=6109121765749&spm=a21n57.1.hoverItem.1&utparam=%7B%22aplus_abtest%22%3A%229b31f5fe43d8ed6f8d609f245b103d16%22%7D&xxc=taobaoSearch,,,,,,
+MPR121QR2,1,TaoBao,$0.98, $0.98 ,https://item.taobao.com/item.htm?ali_refid=a3_430008_1006%3A1199030188%3AH%3AF09JwNqC5gmm82VTigia4Wi3U6IkuaNG%3A1f91b3c85df3b434167f854644d42192&ali_trackid=282_1f91b3c85df3b434167f854644d42192&id=642598169183&mi_id=0000mA_78WsTj-DsKOWlKizFrqsyTeGQCSCwUqb995_BOaE&mm_sceneid=1_0_128672506_0_0&priceTId=2140ced417951790880842670e0a23&spm=a21n57.1.hoverItem.2&utparam=%7B%22aplus_abtest%22%3A%22b6a36261785ae7b320fcd67244f576bc%22%7D&xxc=ad_ztc,,,,,,
+AP2112K-3.3TRG1,1,TaoBao,$0.55, $0.55 ,https://intl.taobao.com/sk/_b.OcKv5a,,,,,,
+USBLC6-2SC6,1,TaoBao,$0.23, $0.23 ,https://item.taobao.com/item.htm?id=763430084934&mi_id=0000eS-IDV4uDILkIzMES0IidgusC4Cfun3KrsnqBLMBnR8&spm=a1z10.3-c-s.w4002-24706531953.13.70906a4bt2aHxH,,,,,,
+STM32G431RBT6,1,TaoBao,$1.54, $1.54 ,https://item.taobao.com/item.htm?abbucket=20&id=924267807464&mi_id=0000vjXVaXTJqpycYECkOkJaTKTX_AZKCaz_Dv3irju04f8&ns=1&priceTId=2101280917951788392727431e0c9a&spm=a21n57.1.hoverItem.2&utparam=%7B%22aplus_abtest%22%3A%228792a7830464eaf499e2950933796a9a%22%7D&xxc=taobaoSearch,,,,,,
+LTC2855CGN#PBF,2,TaoBao,$8.44, $16.88 ,https://a.aliexpress.com/_c40x90oj,,,,,,
+CDSOT23-SM712_C5122012,4,TaoBao,$0.05, $0.20 ,https://detail.tmall.com/item.htm?from=cart&id=903941269382&mi_id=00000tKdVIHf3nfcWPX1CSxi4GOAuD0wd4btw1K3uEyuwVE&skuId=5930106359705&spm=a1z0d.6639537%2F202410.item.d903941269382.39217484SZWMHZ&upStreamPrice=180&xxc=taobaoSearch,,,,,,
+TPD1E10B06DPYR,8,TaoBao,$0.08, $0.64 ,https://item.taobao.com/item.htm?id=594637912684&mi_id=0000WoYJ5pemUoIalN034fmKGxNnJA6svdvwImsAMVKaWWE&spm=a1z10.3-c-s.w4002-24706531953.9.26c56a4bz0ZlXk,,,,,,
+74AHCT1G125QW5-7,1,TaoBao,$0.31, $0.31 ,https://item.taobao.com/item.htm?id=581190029859&mi_id=0000CTFAB4j7orvZ1DhWIXAYaBHRQ-sz7MsJQjxJ-0odpUI&spm=a1z10.3-c-s.w4002-24706531953.9.7ca96a4bm1A5lH,,,,,,
+PCB,1,JLCPCB,$14.90, $14.90 ,https://JLCPCB.com,,,,,,
+Estimated total shipping,1,,, $5.00 ,,,,,,,
+,,,,,,,,,,,
+Tottal,,,, $63.67 ,,,,,,,
+,,,,,,,,,,,
