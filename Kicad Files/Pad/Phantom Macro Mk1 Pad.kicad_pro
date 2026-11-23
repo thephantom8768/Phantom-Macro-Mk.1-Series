@@ -594,7 +594,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/theph/OneDrive/Desktop/Kicad Projects/Production File/Macro Mk1 Pad/",
+      "plot": "C:/Users/theph/OneDrive/Desktop/Kicad Projects/Gerber/Phantom Macro Mk1 Pad Production/",
       "specctra_dsn": "",
       "vrml": ""
     },
@@ -766,7 +766,7 @@
         "uuid": "9f5e407a-2b1f-4454-86c8-7946abe0909c"
       }
     ],
-    "used_designators": "U37-38,#PWR195-196",
+    "used_designators": "",
     "variants": []
   },
   "sheets": [

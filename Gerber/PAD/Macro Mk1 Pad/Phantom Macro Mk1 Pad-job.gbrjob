@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "10.0.3"
     },
-    "CreationDate": "2026-11-05T17:22:14+08:00"
+    "CreationDate": "2026-11-23T20:13:24+08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -42,6 +42,21 @@
     {
       "Path": "Phantom Macro Mk1 Pad-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Phantom Macro Mk1 Pad-In1_Cu.gbr",
+      "FileFunction": "Copper,L2,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Phantom Macro Mk1 Pad-In2_Cu.gbr",
+      "FileFunction": "Copper,L3,Inr",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "Phantom Macro Mk1 Pad-B_Cu.gbr",
+      "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
