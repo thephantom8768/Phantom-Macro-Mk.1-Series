@@ -522,10 +522,14 @@
   },
   "pcbnew": {
     "last_paths": {
+      "gencad": "",
       "idf": "",
       "netlist": "",
       "plot": "C:/Users/theph/OneDrive/Desktop/Kicad Projects/Gerber/Phantom Macro Mk1 Prism Production/",
+      "pos_files": "",
       "specctra_dsn": "",
+      "step": "",
+      "svg": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -690,7 +694,7 @@
         "uuid": "4ce477e5-52fe-41af-bde4-18a5a1d20997"
       }
     ],
-    "used_designators": "",
+    "used_designators": "#PWR64-65,#PWR195-196,U13-14,U38-39",
     "variants": []
   },
   "sheets": [

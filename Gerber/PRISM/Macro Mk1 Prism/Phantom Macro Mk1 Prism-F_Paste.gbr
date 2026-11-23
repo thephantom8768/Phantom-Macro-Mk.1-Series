@@ -1,12 +1,12 @@
 %TF.GenerationSoftware,KiCad,Pcbnew,10.0.3*%
-%TF.CreationDate,2026-11-20T17:22:05+08:00*%
+%TF.CreationDate,2026-11-23T21:02:26+08:00*%
 %TF.ProjectId,Phantom Macro Mk1 Prism,5068616e-746f-46d2-904d-6163726f204d,rev?*%
 %TF.SameCoordinates,Original*%
 %TF.FileFunction,Paste,Top*%
 %TF.FilePolarity,Positive*%
 %FSLAX46Y46*%
 G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
-G04 Created by KiCad (PCBNEW 10.0.3) date 2026-11-20 17:22:05*
+G04 Created by KiCad (PCBNEW 10.0.3) date 2026-11-23 21:02:26*
 %MOMM*%
 %LPD*%
 G01*
@@ -53,6 +53,14 @@ G04 Aperture macros list end*
 %ADD31RoundRect,0.250000X0.350000X0.450000X-0.350000X0.450000X-0.350000X-0.450000X0.350000X-0.450000X0*%
 G04 APERTURE END LIST*
 D10*
+%TO.C,U13*%
+X257100000Y-78527500D03*
+X256100000Y-78527500D03*
+%TD*%
+%TO.C,U14*%
+X184920000Y-68227500D03*
+X185920000Y-68227500D03*
+%TD*%
 %TO.C,U9*%
 X185050000Y-96537500D03*
 X185050000Y-97537500D03*
