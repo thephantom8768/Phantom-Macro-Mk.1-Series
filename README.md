@@ -9,6 +9,7 @@ Chain modules side-by-side to expand your desktop workflow—from a compact macr
 ## 📌 Project Status
 
 - **Hardware:** Series still in-dev
+- **Case/Enclosure:** Currently only available for Pad. (Half-life week 2, its inside 3D case file)
 - **Firmware:** Pad is almost complete but I need to built it to measure the adc. Others are still in-dev
 - **Interconnect:** Custom edge-mount 8 pin pogo interface.
 
